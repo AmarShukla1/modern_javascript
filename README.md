@@ -1,3 +1,5 @@
+#Some Jargons associated with javscript
+
 previously to include an outside library we had to include its js file in the html of our code.
 but that was not optimal as the dependencies versions change and we won't know if that happened or not
 we want to have a package manager like thing which could do such things
