@@ -3,6 +3,7 @@ but that was not optimal as the dependencies versions change and we won't know i
 we want to have a package manager like thing which could do such things
 npm,yarn are such package managers.npm is currently the most popular.
 So that's that one uses package manager for their own ease.
+package.json specifies the dependiences our application uses.the dev-dependencies are also specified there.
 
 for using packages in the nodejs you just have to write require beacuse npm is for that purpose.
 for using packages to use the code in them in browser one has to find the required file and then include it by manually typing,because the browser has not access to file system so it cannot do that.
